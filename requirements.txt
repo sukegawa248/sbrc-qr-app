@@ -1,0 +1,5 @@
+streamlit
+qrcode
+pillow
+gspread
+oauth2client
